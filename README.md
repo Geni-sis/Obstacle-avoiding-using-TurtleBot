@@ -10,3 +10,4 @@ The gazebo simulation should show motion at this point.
 
 Finally you may run the "reading laser.py" file to get the laser readings for further use or debugging
 
+Here is the working video for the same: https://drive.google.com/file/d/1WjnBM9lhX-xzmaFUYzKW0mhDh5vLoxCm/view?usp=sharing
