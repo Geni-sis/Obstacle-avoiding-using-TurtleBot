@@ -1,5 +1,5 @@
 # Obstacle-avoiding-using-TurtleBot
-The following is the solutuion towards building a obstacle avoiding robot using TurtleBot and the onboard Lidar Sensor.
+The following is my solution towards building an obstacle avoiding robot using TurtleBot and an onboard Lidar Sensor.
 
 Copy the .world file and .launch file in their respective sub-folders in the turtlebot main folder.
 
